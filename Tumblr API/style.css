@@ -1,0 +1,38 @@
+body {
+	text-align: center;
+	background-color: #e6e6ff;
+}
+
+h1 {
+	padding-top: 20px;
+	font-family: 'Josefin Slab', serif;
+}
+
+p {
+	font-family: 'Karla', sans-serif;
+}
+
+
+.grid img{
+	border : 3px solid #b3b3ff;
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+}
+
+#buttons{
+    text-align: center;
+    display: inline-block;
+    font-size: 60px;
+    padding: 15px;
+}
+
+.btn-info {
+	color : white;
+	background-color: #b3b3ff;
+	border-style: none;
+	padding : 20px;
+	margin: 10px;
+	border-radius: 20px;
+
+}
