@@ -1,0 +1,80 @@
+body {
+    background-color: #e6e6ff;
+    text-align: center;
+}
+
+.white {
+    background-color : white;
+    padding : 30px 0px 30px 0px;
+}
+
+.profilepic {
+    margin-top : 30px;
+    border-radius: 150px;
+}
+
+#intro {
+    color : white;
+    background-image: url(background1.jpg);
+    background-size: cover;
+}
+
+#goals {
+    color : white;
+    background-image: url(background2.jpg);
+    background-size: cover;
+}
+
+h1 {
+    padding-top : 30px;
+    margin-bottom : 5px;
+    font-family: 'Josefin Slab', serif;
+}
+
+h2 {
+    font-family: 'Marck Script', cursive;
+}
+
+h4 {
+    font-family: 'Josefin Slab', serif;
+    padding-top : 30px;
+}
+
+p {
+    font-family: 'Karla', sans-serif;
+    display: inline-block;
+    text-align: center;
+    width: 600px;
+}
+
+.border {
+    display: inline-block;
+    text-align: center;
+    height : 12px;
+    width : 250px;
+    background-color : grey;
+}
+
+.progress {
+    margin-left: 300px;
+    margin-right : 300px;
+}
+
+.progress-bar {
+    color : black;
+    font-family: 'Karla', sans-serif;
+}
+
+.buttons {
+    display: block;
+    margin-bottom: 70px;
+}
+
+.bottom {
+    margin-bottom: 40px;
+}
+
+.btn {
+    border: none;
+    background-color: #b3b3ff;
+}
